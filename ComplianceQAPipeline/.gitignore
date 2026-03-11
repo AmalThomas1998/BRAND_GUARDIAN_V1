@@ -1,3 +1,7 @@
+gitignore
 # Environments
 .venv/
 .env
+
+# Data Folder
+backend/data/
